@@ -1,0 +1,18 @@
+$text: #333333;
+$blue: #0674ec;
+$bg: #eef1f3;
+
+@mixin f400{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+}
+
+@mixin f500{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+}
+
+@mixin f300{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+}
